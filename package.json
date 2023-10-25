@@ -21,5 +21,6 @@
     "assignment9"
   ],
   "author": "gavon combe (s537671)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
