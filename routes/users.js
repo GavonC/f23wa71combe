@@ -5,9 +5,9 @@ var more = 0;
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  Math(more +1);
-  Math(more + sum);
-  res.send("sum is: " + sum);
+  (more + 1);
+  (more + sum);
+  res.send('Sum is: ' + sum)
 });
 
 module.exports = router;
